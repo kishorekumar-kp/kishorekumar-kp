@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Kishorekumar</h1>
-<h2 align="center">A passionate full stack web 3.0 developer</h2>
+<h1 >Hi 👋, I'm Kishorekumar</h1>
+<h2 >A passionate full stack web 3.0 developer</h2>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/80/28/36/802836ac68385132474a8839e7f654f6.gif">
 
 - 🌱 I’m currently learning **MERN stack with web 3.0**
